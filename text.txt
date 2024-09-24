@@ -1,0 +1,70 @@
+- Relacion entre corriente y voltaje:
+
+I = V / R
+
+Donde:
+I = Corriente electrica
+V = Voltaje
+R = Resistencia
+
+Concepto: Es la relacion entre la cantidad de corriente electrica que fluye a traves de un conductor y el voltaje aplicado en sus extremos.Segun la ley de Ohm, 
+esta relacion es directamente proporcional.
+
+
+
+
+
+Caracteristicas/propiedades:
+    1) A mayor voltaje, mayor corriente (si la resistencia es constante).
+    2) Si el voltaje es cero, la corriente tambien sera cero.
+    3) La relacion es afectada por la resistencia del circuito.
+
+Ejemplos:
+    1) Si se incrementa el voltaje de una bateria, la corriente aumenta.
+    2) Al encender una lampara, el voltaje aplicado genera una corriente en el filamento.
+    3) En un dispositivo electronico, si se reduce el voltaje de entrada, la corriente disminuye.
+
+
+- Relacion entre resistencia y corriente:
+
+Concepto: Es la relacion inversa entre la resistencia de un conductor y la cantidad 
+de corriente que fluye a traves de el. Segun la ley de Ohm, a mayor 
+resistencia, menor corriente.
+
+Caracteristicas/propiedades:
+    1) A mayor resistencia, la corriente disminuye si el voltaje es constante.
+    2) La resistencia limita el flujo de corriente en un circuito.
+    3) La resistencia depende de las propiedades del material
+       (longitud, area, tipo de material).
+
+Ejemplos:
+    1) En un circuito con una resistencia alta, la corriente sera baja aunque 
+       el voltaje sea alto.
+    2) El filamento de una lampara tiene una resistencia que limita la cantidad 
+       de corriente que puede fluir.
+    3) En un electrodomestico, si los cables tienen mucha resistencia, la corriente 
+       fluira con dificultad.
+
+
+- Circuito electrico de resistencia:
+
+Concepto: Es un circuito en el que se utiliza una o mas resistencias para controlar el 
+flujo de corriente. Las resistencias limitan la cantidad de corriente que puede pasar 
+a traves de los componentes del circuito.
+
+Caracteristicas/propiedades:
+
+    1) Las resistencias disipan energia en forma de calor.
+    2) El valor total de la resistencia depende de la combinacion de resistencias 
+       en serie o en paralelo.
+    3) Los circuitos de resistencia son comunes en dispositivos para proteger 
+       otros componentes.
+
+Ejemplos:
+    1) En un circuito de luces LED, las resistencias se usan para limitar la corriente 
+       y evitar que las luces se quemen.
+    2) En una fuente de alimentacion, una resistencia controla 
+       la corriente que alimenta otros circuitos.
+    3) Un circuito simple con una bateria, un interruptor y una 
+       resistencia es usado para demostrar como cambia la corriente.
+
